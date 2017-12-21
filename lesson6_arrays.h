@@ -10,3 +10,5 @@
 void findMinMax();
 
 void sortStuff();
+
+void arrayMatrixCrossProduct();

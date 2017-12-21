@@ -3,4 +3,4 @@ project(CppPlayground)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CppPlayground main.cpp lesson6_arrays.cpp lesson6_arrays.h)
+add_executable(CppPlayground main.cpp lesson6_arrays.cpp lesson6_arrays.h lesson7_functions.cpp lesson7_functions.h)

@@ -1,11 +1,13 @@
 
 #include <iostream>
-#include "lesson6_arrays.h"
+#include "lesson7_functions.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
 //    sortStuff();
-    arrayMatrix();
-    return 0;
+//    arrayMatrixCrossProduct();
+  arraysInFunctions();
+  return 0;
+
 }

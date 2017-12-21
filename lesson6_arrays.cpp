@@ -74,7 +74,7 @@ int indexOf(int value, int searchArray[], int arraySize)
 }
 
 
-void arrayMatrix()
+void arrayMatrixCrossProduct()
 {
     //array dimensions must be known at compile time
     //so I used const int to set the row and col numbers
@@ -118,3 +118,4 @@ void arrayMatrix()
         std::cout<<"product["<<i<<"] = "<<product[i]<<"\n";
     }
 }
+
